@@ -1,0 +1,93 @@
+.aarohan,
+.aarohan1,
+.aarohan2,
+.aarohan3,
+.aarohan4,
+.maudrik,
+.nsbc {
+  position: absolute;
+  top: 139px;
+  left: -115px;
+  display: inline-block;
+  width: 513px;
+  height: 180px;
+}
+.aarohan,
+.aarohan1,
+.aarohan2,
+.aarohan3,
+.aarohan4,
+.maudrik {
+  top: 437px;
+}
+.aarohan,
+.aarohan1,
+.aarohan2,
+.aarohan3,
+.aarohan4 {
+  top: 802px;
+}
+.aarohan1,
+.aarohan2,
+.aarohan3,
+.aarohan4 {
+  top: 1521px;
+}
+.aarohan2,
+.aarohan3,
+.aarohan4 {
+  top: 1100px;
+}
+.aarohan3,
+.aarohan4 {
+  top: 1971px;
+}
+.aarohan4 {
+  top: 2367px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  width: 1440px;
+  height: 93px;
+}
+.consilium,
+.home,
+.sign-up {
+  position: absolute;
+  top: 22px;
+  left: 858px;
+  display: inline-block;
+  width: 188px;
+  height: 54px;
+}
+.consilium,
+.sign-up {
+  left: 1238px;
+  cursor: pointer;
+}
+.consilium {
+  left: 1021px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 93px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 2789px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
